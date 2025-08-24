@@ -60,9 +60,9 @@
 
 <h2>为学术研究者与公益组织提供免费的爬虫工具与数据集访问</h2>
 
-Bright Initiative 向领先学术院系与研究人员、以及推动各类环保与社会公益事业的 NGO 与 NPO 提供对 Bright Data 的 <b>[Web Scraper API](https://www.bright.cn/products/web-scraper)</b> 与 <b>[即用型数据集](https://www.bright.cn/products/datasets)</b> 的访问。您可以在<b>[此处](https://brightinitiative.com)</b>提交申请。
+Bright Initiative 向领先学术院系与研究人员、以及推动各类环保与社会公益事业的 NGO 与 NPO 提供对 Bright Data 的 <b>[网页抓取工具 API](https://www.bright.cn/products/web-scraper)</b> 与 <b>[即用型数据集](https://www.bright.cn/products/datasets)</b> 的访问。您可以在<b>[此处](https://brightinitiative.com)</b>提交申请。
 
-### 想自己抓取 LinkedIn 吗？使用我们的 [LinkedIn Scraper](https://www.bright.cn/products/web-scraper/linkedin)
+### 想自己抓取 LinkedIn 吗？使用我们的 [LinkedIn 抓取工具](https://www.bright.cn/products/web-scraper/linkedin)
 可用的 LinkedIn 抓取器
 - [LinkedIn 个人资料抓取器](https://www.bright.cn/products/web-scraper/linkedin/profiles)
 - [LinkedIn 帖子抓取器](https://www.bright.cn/products/web-scraper/linkedin/post)
